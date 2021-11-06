@@ -1,6 +1,6 @@
-package com.icarusfrog.demo.controllers;
+package com.icarusfrog.pointer.controllers;
 
-import com.icarusfrog.demo.models.Game;
+import com.icarusfrog.pointer.models.Game;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

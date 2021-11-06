@@ -1,4 +1,4 @@
-package com.icarusfrog.demo.models;
+package com.icarusfrog.pointer.models;
 
 import lombok.Data;
 

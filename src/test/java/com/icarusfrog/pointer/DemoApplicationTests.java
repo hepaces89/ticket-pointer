@@ -1,4 +1,4 @@
-package com.icarusfrog.demo;
+package com.icarusfrog.pointer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
